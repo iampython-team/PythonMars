@@ -1,0 +1,28 @@
+
+
+Function - Block code 
+
+types of functions 
+
+1  Built-in functions 
+
+2. Uer defined functions 
+
+3. Lamda functions 
+    map reduce filter 
+
+# OOPS
+4  Magic / methods  Or dundle methods or super methods (OOPS)
+__somename__
+_somename_ 
+__somename_
+
+functions are called it as 'First class object'
+
+
+def functionname(param1,parm2,parm3 .......paramn): #param1,parm2,parm3 .......paramn
+      # code goes here 
+      return someobject # optional
+
+
+

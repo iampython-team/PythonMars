@@ -1,0 +1,33 @@
+Can we able convert complex into strings ? (str)
+Reverse a String using slice operator ?  [::-1]
+
+Explore the traslate method in string ?
+
+1. f-strings - formatting the decimal values using f-strings?
+def evennumbers(n):
+     if n%2==0: 
+         return n**2
+2. nested lamda 
+3. recursive functions
+  1. what is ? 
+  2 .what are example ? 
+       Reverse engineering 
+4. fibaconcci - lamba
+    without function 
+    with normal function 
+    with lamba
+
+
+# generating the random password by using random module 
+# min 2 digits, min 2 alpha ... min 8 charcters 
+# raise an exceptions 
+
+
+# os module - find the count of python files in given folder 
+# inncorrect path -raise an exception 
+
+
+# Files modules 
+# Copy the reverse text from one file to another file
+
+

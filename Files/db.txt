@@ -1,0 +1,6 @@
+PrePROD
+UAT
+TEST
+DEV
+DEV2
+Regression

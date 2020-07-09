@@ -1,0 +1,12 @@
+
+if
+else 
+elif 
+
+
+for 
+while 
+
+break
+continue
+pass

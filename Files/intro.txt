@@ -1,0 +1,87 @@
+
+
+Two types 
+
+1. store charceter 
+2. Binary 
+  images,videos, audio,zip ... 
+
+1.Normal - text files Mode 
+r,w,a,r+,w+,a+,x 
+
+2. Binary files Mode
+rb,wb,ab,r+b,w+b,a+b,xb
+
+
+functions 
+--------------------
+open - open and close 
+with - by default file is closed 
+
+
+file= open('filepath', 'mode',encoding='utf-16')
+
+# default - mode - r 
+file=open('abc.txt','r')
+
+Modes 
+-----------------------
+1. r - mode 
+
+open existing file for read operation 
+f=open('abc.txt','r')
+FileNotFoundError
+
+2. w -mode 
+
+open existing file for write opration 
+file is alreay availble - overwrite 
+if file is not availble it will create new file 
+
+3. a -mode 
+open existing file for write opration 
+file is alreay availble - add the content to EOF  
+if file is not availble it will create new file.
+
+there is no read operations 
+
+ if you want to append the particular location in the file 
+  f.seek()
+
+   
+4. r+ - mode 
+  read / write 
+  read, 
+  write 
+
+5. w+ 
+   write / read 
+
+6. a+ 
+   append and read operation 
+
+
+7. x - Exclusive mode 
+
+open existing file for write opration 
+file is alreay availble - it will throw an error  
+if file is not availble it will create new file 
+
+
+sample.txt -- X - create new file - throw an error if file is already is exists 
+sample.txt ---w - creat a new file - overwrite the content if file is already exists 
+
+properties of file 
+-------------------------
+name
+mode 
+closed 
+readable 
+writable 
+
+
+tell 
+
+opencv 
+pillow 
+matplotlib 
