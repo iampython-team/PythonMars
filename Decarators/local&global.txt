@@ -1,0 +1,14 @@
+
+
+global - keyword 
+nonlocal - keyword 
+globals() - function 
+locals() -function 
+
+local and global variable - concept
+enclosed and buitin variable
+
+
+y=6 # global
+def fun():
+   x=3 # local 

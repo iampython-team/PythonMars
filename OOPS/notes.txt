@@ -1,0 +1,18 @@
+
+
+class 
+object 
+reference 
+constructor 
+self
+instance method 
+
+# variable 
+local 
+instance 
+static 
+
+# methods 
+utility  
+instance 
+Static /cls 
