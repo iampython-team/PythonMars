@@ -34,12 +34,7 @@ print(x.__pow__(y))
 
 
 
-+ 
--
-*
-/
-//
-%
-**
-
-
+a=10 
+b=16
+print(a+b)
+print(a.__add__(b))
