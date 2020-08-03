@@ -1,0 +1,29 @@
+
+
+OOPS 
+----
+class 
+Object 
+methods types - instance, class and static 
+variables types - instance, class and local 
+inner class 
+Poly - Ducktypin, Method overloading, method overrding, operator overloading
+Inheritance - single, multiple, ..... 
+              super() 
+              mro() 
+Abstraction - abc, ABC .... 
+              super() 
+Encapsulation- Data hiding - private variables - 1/2 
+
+Dundle methods 
+
+
+Multithreading 
+
+project implementation 
+
+Databases - MySQL/PostgreSQL
+
+
+
+        

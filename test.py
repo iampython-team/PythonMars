@@ -1,7 +1,12 @@
-Integers=[1,3,6,9]
-a=(element**2 for element in Integers)
-print(next(a),next(a))
+import Levenshtein
+#First list
+keywords =['gradient','maxima','explore','weight']
+#Second list
+tokens = ['Let', "'s", 'also', 'see', 'what', 'a', 'macsyma', 'ingredient', 'and', 'explore', 'ingredient', 'mean', 'wait']
 
-a,a=10,20
 
-print(a,a)
+for i in range(len(mylist)):
+    for token in range(len(tokens)):
+        if Levenshtein.distance(mylist[i],tokens[token]) <= 3:
+            tokens[token]=mylist[i]
+            

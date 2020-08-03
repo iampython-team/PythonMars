@@ -1,0 +1,13 @@
+
+
+Data+ methods 
+
+class A, a 
+
+Abstraction / Encapsulation 
+Abs - implementation hiding 
+Enc -infomation is hiding 
+
+Private members - variables, methods  
+__x - x is a private 
+__show() - show is private 
