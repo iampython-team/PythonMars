@@ -1,0 +1,7 @@
+
+
+# __name__
+
+# main 
+
+what is the meaning of __name__=__main__

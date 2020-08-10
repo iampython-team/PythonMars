@@ -1,0 +1,41 @@
+
+
+MT - process of executing multiple threads simultaneousely 
+
+
+A thread - small unit inside a process 
+
+Multiprocessing and Multithreading 
+
+
+PVM --> single memory -- 
+
+
+batch process 
+-------
+
+DB1 
+SQLserver 
+
+Batch 
+
+DB2
+oracle 
+
+
+10 --> threa 1 -- task1 - insert row 15 into DB2 
+
+40 mins - 6700 - 
+20mins - 6700 
+
+
+module -> threading 
+
+wait notify 
+
+
+# 3 ways 
+
+Extending thread class 
+without class 
+class (not extending thread class )

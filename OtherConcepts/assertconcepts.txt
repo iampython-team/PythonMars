@@ -1,0 +1,39 @@
+
+........
+..........
+
+print("start ")  \ assert 
+..........
+........
+print("start ")  \asert 
+......
+
+
+# assert 
+
+debugging - dev , test 
+
+Prod/live 
+
+
+assert 
+
+
+operators -- 
+
+
+assert - simple version 
+
+assert conditional_expression 
+       AssertionError 
+
+
+assert  - augmented version 
+assert conditional_expression,message 
+         
+
+
+
+
+
+
